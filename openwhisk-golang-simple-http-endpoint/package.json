@@ -1,5 +1,5 @@
 {
-  "name": "openwhisk-go-simple",
+  "name": "openwhisk-golang-simple-http-endpoint",
   "version": "0.1.0",
   "description": "Example demonstrates how to setup a simple Go function with OpenWhisk.",
   "dependencies": {
